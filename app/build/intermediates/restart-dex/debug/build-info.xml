@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="34302795558949" >
+
+    <task
+        name="javac"
+        duration="463" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="293" />
+    <task
+        name="verifier"
+        duration="38" />
+
+    <artifact
+        location="C:\Users\valde\Documents\Programming\Android\ch09_ex4_NewsReader_new-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="34302795558949" >
+        <artifact
+            location="C:\Users\valde\Documents\Programming\Android\ch09_ex4_NewsReader_new-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

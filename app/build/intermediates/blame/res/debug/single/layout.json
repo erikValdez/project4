@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_items2.xml",
+        "source": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\fragment_items2.xml"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_items.xml",
+        "source": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\fragment_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_items.xml",
+        "source": "C:\\Users\\valde\\Documents\\Programming\\Android\\ch09_ex4_NewsReader_new-master\\app\\src\\main\\res\\layout\\activity_items.xml"
+    }
+]
